@@ -19,7 +19,7 @@ https://github.com/QSTN-US/Telegram-QSTN-v1/assets/3760421/639ecd9f-eb5b-4bf9-a1
 
 ### Creating zero knowledge proof after survey completion
 
-[IN PROGRESS]
+https://github.com/QSTN-US/Telegram-QSTN-v1/assets/3760421/600aacb8-c4ac-46a7-a414-5e784b3f56a0
 
 
 ### About Telegram TON Network
