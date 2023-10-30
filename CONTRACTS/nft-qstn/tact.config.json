@@ -1,0 +1,10 @@
+{
+    "projects": [{
+        "name": "qstn",
+        "path": "./sources/contract.tact",
+        "output": "./sources/output",
+        "options": {
+            "external": true  
+        }
+    }]
+}
