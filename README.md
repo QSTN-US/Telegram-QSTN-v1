@@ -7,7 +7,17 @@
 
 ***🚀 QSTN is a platform that connects businesses and individuals through market research surveys. We partner with companies that are looking for feedback from consumers like you, and we provide the opportunity for you to earn rewards while sharing your opinions.***
 
-### Video Demo
+## Video Demo
+
+### Business funding
+
+https://github.com/QSTN-US/Telegram-QSTN-v1/assets/3760421/639ecd9f-eb5b-4bf9-a173-a22f02fb666d
+
+### User survey and reward claim
+
+[IN PROGRESS]
+
+### Creating zero knowledge proof after survey completion
 
 [IN PROGRESS]
 
