@@ -21,6 +21,10 @@ https://github.com/QSTN-US/Telegram-QSTN-v1/assets/3760421/5b850258-ef84-4d8a-86
 
 https://github.com/QSTN-US/Telegram-QSTN-v1/assets/3760421/600aacb8-c4ac-46a7-a414-5e784b3f56a0
 
+### User survey and reward claim
+
+https://github.com/QSTN-US/Telegram-QSTN-v1/assets/3760421/df572b6b-fd1e-4186-b7b9-2b8562a28e0d
+
 
 ### About Telegram TON Network
 
