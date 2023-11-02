@@ -15,7 +15,7 @@ https://github.com/QSTN-US/Telegram-QSTN-v1/assets/3760421/639ecd9f-eb5b-4bf9-a1
 
 ### User survey and reward claim
 
-[IN PROGRESS]
+https://github.com/QSTN-US/Telegram-QSTN-v1/assets/3760421/5b850258-ef84-4d8a-8603-94c37ff07fc2
 
 ### Creating zero knowledge proof after survey completion
 
