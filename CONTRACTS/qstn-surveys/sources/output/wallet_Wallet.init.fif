@@ -1,0 +1,47 @@
+PROGRAM{
+  DECLPROC __tact_verify_address
+  DECLPROC __tact_store_address
+  DECLPROC __gen_write_Wallet
+  DECLPROC $__gen_Wallet_init
+  107886 DECLMETHOD init
+  DECLPROC main
+  __tact_verify_address PROCINLINE:<{
+    SBITS
+    267 PUSHINT
+    NEQ
+    136 THROWIFNOT
+  }>
+  __tact_store_address PROCINLINE:<{
+    STSLICER
+  }>
+  __gen_write_Wallet PROCINLINE:<{
+    s6 s7 XCHG2
+    32 STU
+    s0 s4 XCHG2
+    __tact_store_address INLINECALLDICT
+    s1 s2 XCHG
+    32 STU
+    256 STU
+    64 STU
+    STDICT
+    STDICT
+  }>
+  $__gen_Wallet_init PROC:<{
+    0 PUSHINT
+    PUSHNULL
+    PUSHNULL
+    s0 s7 XCHG
+    NEWC
+    STREF
+    s0 s7 XCHG
+    4 3 REVERSE
+    s2 s4 XCHG
+    __gen_write_Wallet INLINECALLDICT
+    ENDC
+  }>
+  init PROC:<{
+    $__gen_Wallet_init CALLDICT
+  }>
+  main PROC:<{
+  }>
+}END>c
