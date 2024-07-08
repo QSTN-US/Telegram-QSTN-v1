@@ -1,7 +1,0 @@
-{
-    "projects": [{
-        "name": "wallet",
-        "path": "./sources/wallet.tact",
-        "output": "./sources/output"
-    }]
-}
